@@ -1,6 +1,5 @@
 -  Hi, I’m @AxelVigroux, 26 y.o french web developer junior from Toulouse, actually at Reunion Island //
--  I’m interested in front-end development and learning JS framework like vue.js or react // I would to learn Three.js later ! //
--  I’m currently learning Javascript and how to make a website deliverable on wordpress //
+-  Learning React/Node //
 -  I’m looking to collaborate on any web development project ! 
 -  How to reach me @vix.ax@hotmail.fr //
 
